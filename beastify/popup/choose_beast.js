@@ -17,16 +17,7 @@ function listenForClicks() {
      * Given the name of a beast, get the URL to the corresponding image.
      */
     function beastNameToURL(beastName) {
-      let minim = beastName.toLowerCase();
-      return browser.extension.getURL("beasts/"+minim+".jpg");
-      // switch (beastName) {
-      //   case "Frog":
-      //     return browser.extension.getURL("beasts/frog.jpg");
-      //   case "Snake":
-      //     return browser.extension.getURL("beasts/snake.jpg");
-      //   case "Turtle":
-      //     return browser.extension.getURL("beasts/turtle.jpg");
-      // }
+      return browser.extension.getURL("beasts/"+beastName.toLowerCase()+".jpg");
     }
 
     /**

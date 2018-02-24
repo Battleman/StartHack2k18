@@ -5,7 +5,7 @@
 
     "description" : "Helps journalists spot fake news",
     "icons": {
-      "48": "icons/fake_news-48.png"
+      "48": "icons/fake_news_48.png"
     },
     "permissions": [
       "activeTab"

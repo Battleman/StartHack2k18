@@ -2,48 +2,32 @@ html, body {
     width: 200px;
 }
 
-.circle {
-    height: 100px;
-    width: 100px;
-
-    display: block;
-    border: 1px solid black;
-
-    border-radius: 100px;
+ul.colored {
+   list-style: none;
 }
 
-.good {
-    color: green;
+ul.colored li {
+        list-style: none;
+}
+ul.colored li:before {
+        content:'\2022';
+        display: block;
+        position: relative;
+        max-width: 0px;
+        max-height: 0px;
+        left: -25px;
+        top: -15px;
+        font-size: 50px;
 }
 
-.meh {
+ul.colored li.good:before{
+   color: green;
+}
+
+ul.colored li.meh:before {
     color: orange;
 }
 
-.bad {
+ul.colored li.bad:before {
     color: red;
 }
-
-ul.icon
-{
-	list-style-type: none;
-}
-
-ul.icon li
-{
-	text-indent: -1.4em;
-}
-
-ul.icon li:before
-{
-	font-family: bullets;
-	content: "\e800";
-	float: left;
-	width: 1.4em;
-}
-
-ul.icon li.info:before { content: "\e800"; }
-ul.icon li.star:before { content: "\e803"; }
-ul.icon li.help:before { content: "\e801"; }
-ul.icon li.bulb:before { content: "\e804"; }
-ul.icon li.hand:before { content: "\e805"; }
