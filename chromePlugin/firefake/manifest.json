@@ -1,0 +1,25 @@
+{
+    "manifest_version" : 2,
+    "name" : "firefake",
+    "version" : "1.0",
+
+    "description" : "Helps journalists spot fake news",
+    "icons": {
+      "48": "icons/fake_news_48.png"
+    },
+    "permissions": [
+      "activeTab"
+    ],
+    "browser_action": {
+      "default_icon": "icons/fake_news_48.png",
+      "default_title": "Firefake",
+      "default_popup": "popup/firefake.html"
+    },
+	"content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["jquery.js"]
+    }
+  ]
+
+}
