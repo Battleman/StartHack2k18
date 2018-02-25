@@ -1133,3 +1133,93 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js,
 [Child 24183, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 24183, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 [Child 24183, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519521578074	geckodriver	INFO	geckodriver 0.19.1
+1519521578077	geckodriver	INFO	Listening on 127.0.0.1:42433
+1519521579210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IEeK0mypCdPV"
+1519521579941	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519521581969	Marionette	INFO	Listening on port 44215
+1519521582037	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27681, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 27681, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519521627686	geckodriver	INFO	geckodriver 0.19.1
+1519521627689	geckodriver	INFO	Listening on 127.0.0.1:56039
+1519521628863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FJzRsqxeLuWY"
+1519521629633	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519521632185	Marionette	INFO	Listening on port 46001
+1519521632291	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28093, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28093, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519521740433	geckodriver	INFO	geckodriver 0.19.1
+1519521740437	geckodriver	INFO	Listening on 127.0.0.1:51721
+1519521741593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LMB8sS8ale0S"
+1519521742437	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519521744755	Marionette	INFO	Listening on port 38063
+1519521744854	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28917, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28917, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519521937867	geckodriver	INFO	geckodriver 0.19.1
+1519521937871	geckodriver	INFO	Listening on 127.0.0.1:38965
+1519521939017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uhCDwD2Dr9TV"
+1519521939836	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519521942073	Marionette	INFO	Listening on port 46151
+1519521942225	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30016, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30016, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519521994673	geckodriver	INFO	geckodriver 0.19.1
+1519521994677	geckodriver	INFO	Listening on 127.0.0.1:57389
+1519521995784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gc5QqpgZwULb"
+1519521996569	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519521998917	Marionette	INFO	Listening on port 40505
+1519521999023	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30455, Chrome_ChildThread] WARNING: pipe error (18): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30455, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519522041008	geckodriver	INFO	geckodriver 0.19.1
+1519522041011	geckodriver	INFO	Listening on 127.0.0.1:43899
+1519522042153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Q5p7OTLCmN27"
+1519522042862	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519522044958	Marionette	INFO	Listening on port 34253
+1519522044984	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 30873, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30873, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519522206386	geckodriver	INFO	geckodriver 0.19.1
+1519522206389	geckodriver	INFO	Listening on 127.0.0.1:43019
+1519522207498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.blLVsNaN0qx1"
+1519522208367	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519522210684	Marionette	INFO	Listening on port 33687
+1519522210724	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 32125, Chrome_ChildThread] WARNING: pipe error (34): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32125, Chrome_ChildThread] WARNING: pipe error (21): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32125, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519522297237	geckodriver	INFO	geckodriver 0.19.1
+1519522297240	geckodriver	INFO	Listening on 127.0.0.1:52405
+1519522298358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r5NIqvdOMGUe"
+1519522298370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519522299423	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519523206019	geckodriver	INFO	geckodriver 0.19.1
+1519523206024	geckodriver	INFO	Listening on 127.0.0.1:49337
+1519523207116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KdcpWimiS8Z8"
+1519523207680	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519523209272	Marionette	INFO	Listening on port 41543
+1519523209327	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22462, Chrome_ChildThread] WARNING: pipe error (31): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22462, Chrome_ChildThread] WARNING: pipe error (20): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22462, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519523249744	geckodriver	INFO	geckodriver 0.19.1
+1519523249749	geckodriver	INFO	Listening on 127.0.0.1:58747
+1519523250837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BKGafK52V5Rl"
+1519523251353	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1519523252569	Marionette	INFO	Listening on port 39321
+1519523252647	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22886, Chrome_ChildThread] WARNING: pipe error (19): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22886, Chrome_ChildThread] WARNING: pipe error (31): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22886, Chrome_ChildThread] WARNING: pipe error (3): Connexion ré-initialisée par le correspondant: file /build/firefox-MqZXKo/firefox-58.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
