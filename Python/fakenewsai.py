@@ -14,6 +14,7 @@ def fakeNewsAI(domain, ff=True):
     page = driver.get('http://www.fakenewsai.com/');
     inpu = driver.find_element_by_tag_name('input')
     inpu.clear()
+    domain = toDomain(domain)
     inpu.send_keys(domain)
     driver.find_element_by_class_name('button').click()
 
@@ -24,3 +25,11 @@ def fakeNewsAI(domain, ff=True):
             retVal = resM.text
     driver.quit()
     return retVal
+
+
+def toDomain (url) :
+	if ('http' in url) :
+		return url.split('/')[2]
+	else :
+		return url.split('/')[0]
+	
