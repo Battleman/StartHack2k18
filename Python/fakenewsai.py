@@ -5,9 +5,9 @@ import time
 
 def fakeNewsAI(domain, ff=True):
     if(ff):
-        driver = webdriver.Firefox()
         display = Display(visible=0, size=(1024, 768))
         display.start()
+        driver = webdriver.Firefox()
     else:
         driver=webdriver.Chrome('D:\\epfl\\Lauzhack\\StartHack2k18\\Python\\chromedriver.exe')
 
