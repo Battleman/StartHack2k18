@@ -14,11 +14,13 @@ def fakeNewsAI(domain, ff=True):
     page = driver.get('http://www.fakenewsai.com/');
     inpu = driver.find_element_by_tag_name('input')
     inpu.clear()
-    inpu.send_keys(url)
+    inpu.send_keys(domain)
     driver.find_element_by_class_name('button').click()
 
     time.sleep(5)
+    retVal = "CRITICAL ERROR"
     for resM in driver.find_elements_by_class_name('results') :
         if resM.get_attribute('style') == 'opacity: 1;' :
-            return resM.text
-    return "CRITICAL ERROR"
+            retVal = resM.text
+    driver.quit()
+    return retVal
